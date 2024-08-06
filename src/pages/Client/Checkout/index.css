@@ -1,0 +1,14 @@
+.checkout-container {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.cart-summary,
+.delivery-address,
+.payment-method,
+.order-summary {
+  border: 1px solid #ccc;
+  padding: 20px;
+  border-radius: 5px;
+}

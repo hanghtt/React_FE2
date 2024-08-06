@@ -1,0 +1,234 @@
+{
+  "products": [
+    {
+      "name": "Cây xanh 1",
+      "category": "Mầm cây",
+      "price": 200,
+      "image": "https://inkythuatso.com/uploads/thumbnails/800/2022/06/hinh-anh-cay-xanh-mam-non-cho-dien-thoai-2-inkythuatso-01-10-48-06.jpg",
+      "description": "Cây xanh – Lá phổi xanh của Trái Đất từ xa xưa. Lợi ích của cây xanh là cung cấp lượng oxy đáng kể cho chúng ta hít thở. Mỗi cây xanh có thể cung cấp đủ oxy cho 4 người và hấp thụ các chất độc như CO2, SO2, amoniac và bụi bẩn.",
+      "id": 7,
+      "short_desc": "Mầm cây xanh",
+      "about": ""
+    },
+    {
+      "name": "Cây xanh 2",
+      "category": "Cây cảnh",
+      "price": 500,
+      "image": "https://www.canhquanxanh.com.vn/images/2013/c_y-si.jpg?1722925564947",
+      "description": "Cây xanh – Lá phổi xanh của Trái Đất từ xa xưa. Lợi ích của cây xanh là cung cấp lượng oxy đáng kể cho chúng ta hít thở. Mỗi cây xanh có thể cung cấp đủ oxy cho 4 người và hấp thụ các chất độc như CO2, SO2, amoniac và bụi bẩn.",
+      "id": 8,
+      "short_desc": "",
+      "about": ""
+    },
+    {
+      "name": "Cây xanh 3",
+      "category": "Cây cổ thụ",
+      "price": 2000,
+      "image": "https://caycanhhoanggia.vn/server/php/files/cay-thi.jpg?scale.width=400",
+      "description": "Cây xanh – Lá phổi xanh của Trái Đất từ xa xưa. Lợi ích của cây xanh là cung cấp lượng oxy đáng kể cho chúng ta hít thở. Mỗi cây xanh có thể cung cấp đủ oxy cho 4 người và hấp thụ các chất độc như CO2, SO2, amoniac và bụi bẩn.",
+      "id": 9,
+      "short_desc": "",
+      "about": ""
+    },
+    {
+      "name": "Cây xanh 5",
+      "category": "Cây ưa bóng",
+      "price": 100,
+      "image": "https://www.yeuhoatuoi.com/wp-content/uploads/2019/03/cac-loai-cay-ua-bong-ram-thich-hop-de-trong-trong-nha-4-e1552445548470.jpg",
+      "description": "Cây xanh – Lá phổi xanh của Trái Đất từ xa xưa. Lợi ích của cây xanh là cung cấp lượng oxy đáng kể cho chúng ta hít thở. Mỗi cây xanh có thể cung cấp đủ oxy cho 4 người và hấp thụ các chất độc như CO2, SO2, amoniac và bụi bẩn.",
+      "short_desc": "Cây hoa ưa mát",
+      "about": "Cây xanh – Lá phổi xanh của Trái Đất từ xa xưa. Lợi ích của cây xanh là cung cấp lượng oxy đáng kể cho chúng ta hít thở. Mỗi cây xanh có thể cung cấp đủ oxy cho 4 người và hấp thụ các chất độc như CO2, SO2, amoniac và bụi bẩn.",
+      "id": 11
+    },
+    {
+      "name": "Cây xanh 6",
+      "category": "Cây cổ thụ",
+      "price": 299,
+      "image": "https://cayxanhtanthuy.com/wp-content/uploads/2022/05/Cay_cha_la-e1665074901679.jpg",
+      "description": "Cây xanh – Lá phổi xanh của Trái Đất từ xa xưa. Lợi ích của cây xanh là cung cấp lượng oxy đáng kể cho chúng ta hít thở. Mỗi cây xanh có thể cung cấp đủ oxy cho 4 người và hấp thụ các chất độc như CO2, SO2, amoniac và bụi bẩn.",
+      "short_desc": "",
+      "about": "",
+      "id": 12
+    }
+  ],
+  "categorys": [
+    {
+      "name": "Mầm cây",
+      "image": "https://inkythuatso.com/uploads/thumbnails/800/2022/06/hinh-anh-cay-xanh-mam-non-cho-dien-thoai-3-inkythuatso-01-10-48-12.jpg",
+      "id": 1
+    },
+    {
+      "name": "Cây cổ thụ",
+      "image": "https://vnn-imgs-a1.vgcloud.vn/znews-photo.zadn.vn/w1024/Uploaded/zngure/2020_11_14/118287795_687747998750036_4366895706050798171_n_2.jpg",
+      "id": 2
+    },
+    {
+      "name": "Cây ưa bóng",
+      "image": "https://beegreen.vn/wp-content/uploads/2021/09/beegreen-10-cay-noi-that-ua-bong-ram-2-1.jpg",
+      "id": 3
+    },
+    {
+      "name": "Cây cảnh",
+      "image": "https://caycanhnoithat.vn/uploads/thietmoclan.jpg",
+      "id": 4
+    }
+  ],
+  "users": [
+    {
+      "email": "ha9671889@gmail.com",
+      "password": "$2a$10$UBNCVOzVXvWyaCLXt/m8IOjOT9Ld/ZGF.zP3xptVEM8XoxRh1yJeu",
+      "name": "Hà Hằng",
+      "confirmPassword": "123456",
+      "id": 1
+    },
+    {
+      "email": "hang9671889@gmail.com",
+      "password": "$2a$10$16gZ7Yqd8SuKL0Fa1Nr3ZOekGM7igmg2Dtu0DLRsjMctAzpYIMETW",
+      "name": "Thu Hằng",
+      "confirmPassword": "88888888",
+      "id": 2
+    }
+  ],
+  "carts": [
+    {
+      "id": 9,
+      "name": "Cây xanh 3",
+      "quantity": 3,
+      "description": "Cây xanh – Lá phổi xanh của Trái Đất từ xa xưa. Lợi ích của cây xanh là cung cấp lượng oxy đáng kể cho chúng ta hít thở. Mỗi cây xanh có thể cung cấp đủ oxy cho 4 người và hấp thụ các chất độc như CO2, SO2, amoniac và bụi bẩn.",
+      "price": 2000,
+      "image": "https://caycanhhoanggia.vn/server/php/files/cay-thi.jpg?scale.width=400"
+    },
+    {
+      "id": 11,
+      "name": "Cây xanh 5",
+      "quantity": 1,
+      "description": "Cây xanh – Lá phổi xanh của Trái Đất từ xa xưa. Lợi ích của cây xanh là cung cấp lượng oxy đáng kể cho chúng ta hít thở. Mỗi cây xanh có thể cung cấp đủ oxy cho 4 người và hấp thụ các chất độc như CO2, SO2, amoniac và bụi bẩn.",
+      "price": 100,
+      "image": "https://www.yeuhoatuoi.com/wp-content/uploads/2019/03/cac-loai-cay-ua-bong-ram-thich-hop-de-trong-trong-nha-4-e1552445548470.jpg"
+    }
+  ],
+  "orders": [
+    {
+      "name": "Hà Hằng",
+      "sdt": "0921735576",
+      "email": "ha9671889@gmail.com",
+      "diachi": "Tu Hoàng",
+      "items": [
+        {
+          "id": 8,
+          "name": "Cây xanh 2",
+          "quantity": 2,
+          "description": "Cây xanh – Lá phổi xanh của Trái Đất từ xa xưa. Lợi ích của cây xanh là cung cấp lượng oxy đáng kể cho chúng ta hít thở. Mỗi cây xanh có thể cung cấp đủ oxy cho 4 người và hấp thụ các chất độc như CO2, SO2, amoniac và bụi bẩn.",
+          "price": 500,
+          "image": "https://www.canhquanxanh.com.vn/images/2013/c_y-si.jpg?1722925564947"
+        }
+      ],
+      "totalAmount": 1009.2,
+      "id": 1
+    },
+    {
+      "name": "Hằng",
+      "sdt": "0123456789",
+      "email": "ha9671889@gmail.com",
+      "diachi": "Xuân Phương",
+      "items": [
+        {
+          "id": 8,
+          "name": "Cây xanh 2",
+          "quantity": 5,
+          "description": "Cây xanh – Lá phổi xanh của Trái Đất từ xa xưa. Lợi ích của cây xanh là cung cấp lượng oxy đáng kể cho chúng ta hít thở. Mỗi cây xanh có thể cung cấp đủ oxy cho 4 người và hấp thụ các chất độc như CO2, SO2, amoniac và bụi bẩn.",
+          "price": 500,
+          "image": "https://www.canhquanxanh.com.vn/images/2013/c_y-si.jpg?1722925564947"
+        },
+        {
+          "id": 9,
+          "name": "Cây xanh 3",
+          "quantity": 1,
+          "description": "Cây xanh – Lá phổi xanh của Trái Đất từ xa xưa. Lợi ích của cây xanh là cung cấp lượng oxy đáng kể cho chúng ta hít thở. Mỗi cây xanh có thể cung cấp đủ oxy cho 4 người và hấp thụ các chất độc như CO2, SO2, amoniac và bụi bẩn.",
+          "price": 2000,
+          "image": "https://caycanhhoanggia.vn/server/php/files/cay-thi.jpg?scale.width=400"
+        }
+      ],
+      "totalAmount": 4509.2,
+      "id": 2
+    },
+    {
+      "name": "Hằng",
+      "sdt": "0123456789",
+      "email": "ha9671889@gmail.com",
+      "diachi": "Xuân Phương",
+      "items": [
+        {
+          "id": 8,
+          "name": "Cây xanh 2",
+          "quantity": 5,
+          "description": "Cây xanh – Lá phổi xanh của Trái Đất từ xa xưa. Lợi ích của cây xanh là cung cấp lượng oxy đáng kể cho chúng ta hít thở. Mỗi cây xanh có thể cung cấp đủ oxy cho 4 người và hấp thụ các chất độc như CO2, SO2, amoniac và bụi bẩn.",
+          "price": 500,
+          "image": "https://www.canhquanxanh.com.vn/images/2013/c_y-si.jpg?1722925564947"
+        },
+        {
+          "id": 9,
+          "name": "Cây xanh 3",
+          "quantity": 1,
+          "description": "Cây xanh – Lá phổi xanh của Trái Đất từ xa xưa. Lợi ích của cây xanh là cung cấp lượng oxy đáng kể cho chúng ta hít thở. Mỗi cây xanh có thể cung cấp đủ oxy cho 4 người và hấp thụ các chất độc như CO2, SO2, amoniac và bụi bẩn.",
+          "price": 2000,
+          "image": "https://caycanhhoanggia.vn/server/php/files/cay-thi.jpg?scale.width=400"
+        },
+        {
+          "id": 11,
+          "name": "Cây xanh 5",
+          "quantity": 1,
+          "description": "Cây xanh – Lá phổi xanh của Trái Đất từ xa xưa. Lợi ích của cây xanh là cung cấp lượng oxy đáng kể cho chúng ta hít thở. Mỗi cây xanh có thể cung cấp đủ oxy cho 4 người và hấp thụ các chất độc như CO2, SO2, amoniac và bụi bẩn.",
+          "price": 100,
+          "image": "https://www.yeuhoatuoi.com/wp-content/uploads/2019/03/cac-loai-cay-ua-bong-ram-thich-hop-de-trong-trong-nha-4-e1552445548470.jpg"
+        }
+      ],
+      "totalAmount": 4609.2,
+      "id": 3
+    },
+    {
+      "name": "Hằng ok",
+      "sdt": "01111111111",
+      "email": "ha9671889@gmail.com",
+      "diachi": "Xuân Phương",
+      "items": [
+        {
+          "id": 7,
+          "name": "Cây xanh 1",
+          "quantity": 1,
+          "description": "Cây xanh – Lá phổi xanh của Trái Đất từ xa xưa. Lợi ích của cây xanh là cung cấp lượng oxy đáng kể cho chúng ta hít thở. Mỗi cây xanh có thể cung cấp đủ oxy cho 4 người và hấp thụ các chất độc như CO2, SO2, amoniac và bụi bẩn.",
+          "price": 250,
+          "image": "https://inkythuatso.com/uploads/thumbnails/800/2022/06/hinh-anh-cay-xanh-mam-non-cho-dien-thoai-2-inkythuatso-01-10-48-06.jpg"
+        }
+      ],
+      "totalAmount": 259.2,
+      "id": 4
+    },
+    {
+      "name": "Thu Hằng",
+      "sdt": "0921735576",
+      "email": "hang9671889@gmail.com",
+      "diachi": "Xuân phương",
+      "items": [
+        {
+          "id": 9,
+          "name": "Cây xanh 3",
+          "quantity": 3,
+          "description": "Cây xanh – Lá phổi xanh của Trái Đất từ xa xưa. Lợi ích của cây xanh là cung cấp lượng oxy đáng kể cho chúng ta hít thở. Mỗi cây xanh có thể cung cấp đủ oxy cho 4 người và hấp thụ các chất độc như CO2, SO2, amoniac và bụi bẩn.",
+          "price": 2000,
+          "image": "https://caycanhhoanggia.vn/server/php/files/cay-thi.jpg?scale.width=400"
+        },
+        {
+          "id": 11,
+          "name": "Cây xanh 5",
+          "quantity": 1,
+          "description": "Cây xanh – Lá phổi xanh của Trái Đất từ xa xưa. Lợi ích của cây xanh là cung cấp lượng oxy đáng kể cho chúng ta hít thở. Mỗi cây xanh có thể cung cấp đủ oxy cho 4 người và hấp thụ các chất độc như CO2, SO2, amoniac và bụi bẩn.",
+          "price": 100,
+          "image": "https://www.yeuhoatuoi.com/wp-content/uploads/2019/03/cac-loai-cay-ua-bong-ram-thich-hop-de-trong-trong-nha-4-e1552445548470.jpg"
+        }
+      ],
+      "totalAmount": 6109.2,
+      "id": 5
+    }
+  ]
+}
